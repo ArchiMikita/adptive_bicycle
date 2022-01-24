@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    background-color: #f7f7f7;
+    color: #4d4959;
+
+    font-family: 'Inter', sans-serif;
+    font-family: 'Merriweather', serif;
+}
+
+.html, body {
+    height: 100%;
+}
+
+.container {
+    max-width: 1130px;
+    padding: 0 15px;
+}
+
+.main_screen {
+    background-image: url(/images/main/bg.jpg);
+    background-repeat: no-repeat;
+    background-color: red;
+
+    height: 46.7em;
+}
